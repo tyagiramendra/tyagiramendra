@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ramendra Tyagi 
+📍 Noida | ✉️ ramendra.tyagi10@gmail.com | [LinkedIn](https://www.linkedin.com/in/ramendra-tyagi-47796a59/)
 
 <!--
 **tyagiramendra/tyagiramendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
