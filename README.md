@@ -9,7 +9,8 @@
 - Kore.ai Experience Optimization Platform Developers Advanced Training , Kore.ai(2023).
 
 ###  Work History
-**Data Scientist, IRIS Software, India (2018 - 2021)**
+**Solution Consultant, IRIS Software, India (2018 - 2021)**
 - Built an AI/ML based virtual Assistant to provide a conversational interface that greatly simplifies the way users can access information from numerous systems in the vast infrastructure at Citibank.
-
+**Data Scientist, IRIS Software, India (2021 - Preset)**
+  - Pioneered GenAI POC converting VBA Macros to Python.
 ### Education
