@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Work History
+Data Scientist, IRIS Software, India (2020 - 2023)
+- Build an AI/ML based virtual Assistant to provide a conversational interface that greatly simplifies the way users can access information from numerous systems in the vast infrastructure at Citibank.
