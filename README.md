@@ -1,20 +1,15 @@
 ###  Ramendra Tyagi 
 📍 Noida | ✉️ ramendra.tyagi10@gmail.com | [LinkedIn](https://www.linkedin.com/in/ramendra-tyagi-47796a59/)
+### Professional Summary
+### Skills
+- NLU/NLP
+### Certifications
+- Advanced Certification in Data Science and AI from IIT Madras.
+- Generative AI with Large Language Models , Coursera (2023).
+- Kore.ai Experience Optimization Platform Developers Advanced Training , Kore.ai(2023).
 
-<!--
-**tyagiramendra/tyagiramendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ###  Work History
-**Data Scientist, IRIS Software, India (2020 - 2023)**
+**Data Scientist, IRIS Software, India (2018 - 2021)**
 - Build an AI/ML based virtual Assistant to provide a conversational interface that greatly simplifies the way users can access information from numerous systems in the vast infrastructure at Citibank.
+
+### Education
