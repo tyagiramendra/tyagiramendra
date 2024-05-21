@@ -16,3 +16,6 @@
 - Built an AI/ML based virtual Assistant to provide a conversational interface that greatly simplifies the way users can access information from numerous systems in the vast infrastructure at Citibank.
 
 ### Education
+- MCA, Rajiv Gandhi Proudyogiki Vishwavidyalaya , Bhopal (2010 – 2013).
+- BCA, Jiwaji University, Gwalior (2007 – 2010).
+
