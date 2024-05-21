@@ -10,6 +10,6 @@
 
 ###  Work History
 **Data Scientist, IRIS Software, India (2018 - 2021)**
-- Build an AI/ML based virtual Assistant to provide a conversational interface that greatly simplifies the way users can access information from numerous systems in the vast infrastructure at Citibank.
+- Built an AI/ML based virtual Assistant to provide a conversational interface that greatly simplifies the way users can access information from numerous systems in the vast infrastructure at Citibank.
 
 ### Education
