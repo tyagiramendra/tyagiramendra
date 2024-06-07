@@ -1,6 +1,7 @@
 ###  Ramendra Tyagi 
 📍 Noida | ✉️ ramendra.tyagi10@gmail.com | [LinkedIn](https://www.linkedin.com/in/ramendra-tyagi-47796a59/)
 ### Professional Summary
+With a decade of experience in UI, including nearly three years deeply immersed in Data Science, ML and AI. My journey has evolved from UI , chatbot development to developing innovative AI projects. Advanced Certification in Data Science and AI from IIT Madras. I have a strong foundation in NLP, ML and Large Language Models (LLMs).
 ### Skills
 - NLU/NLP
 ### Certifications
