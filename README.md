@@ -3,7 +3,7 @@
 ### Professional Summary
 With over a decade of experience in UI, including nearly five years deeply immersed in Data Science, Machine Learning, and AI, my journey has evolved from UI and chatbot development to creating innovative AI projects. I hold an Advanced Certification in Data Science and AI from IIT Madras, which has solidified my strong foundation in NLP, Machine Learning, and Large Language Models (LLMs).
 ### Skills
-- NLU/NLP, ML, LLM
+- NLU/NLP, ML, LLM, Python
 ### Certifications
 - Advanced Certification in Data Science and AI from IIT Madras.
 - Generative AI with Large Language Models , Coursera (2023).
